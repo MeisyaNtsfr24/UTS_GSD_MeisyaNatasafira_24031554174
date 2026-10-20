@@ -1,0 +1,9 @@
+pandas
+numpy
+neo4j
+scikit-learn
+scipy
+matplotlib
+networkx
+tqdm
+jupyter
